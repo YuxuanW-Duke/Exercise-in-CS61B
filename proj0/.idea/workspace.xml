@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4cc68b3-e02f-4511-9406-ef5a5520712b" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PROJECT_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/In.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBody.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StdDraw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StdDrawDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestBodyConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCalcDistance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCalcForceExertedBy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCalcForceExertedByXY.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCalcNetForceExertedByXY.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestReadBodies.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestReadRadius.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestUpdate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/.idea/$PROJECT_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/BasicInDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/Body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/In.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/InDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/META-INF/proj0.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/NBody.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/StdAudio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/StdDraw.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/StdDrawDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/StdOut.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/StdRandom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/TestBodyConstructor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/TestCalcDistance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/TestCalcForceExertedBy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/TestCalcForceExertedByXY.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/TestCalcNetForceExertedByXY.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/TestReadBodies.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/TestReadRadius.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/TestUpdate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/audio/2001.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/3body.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/8star-rotation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/antimatter.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/armageddon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/atom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/awesome.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/binary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/binaryStars.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/bowling.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/chaosblossom.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/dance10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/entropy-universe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/fourellipses.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/galaxy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/hypnosis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/illusion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/its-a-trap.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/kaleidoscope.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/kevin.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/massive-squirrel-battle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/planets-elliptical.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/planets.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/planetsparty.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/pluto.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/quad-stars.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/renegade.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/sbh2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/sbh3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/soap-opera.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/spiral.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/suninterference.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/twin-binaries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/uniform100.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/uniform3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/data/uniform8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/examples/BasicInDemo_input_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/examples/advice.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/examples/national_salt_production.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/acorn-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/acorn3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/asteroid.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/ball.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/blackhole.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/death_star.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/earth.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/electron.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/endor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/goodbye.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/imback.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/its_a_trap.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/jupiter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/kevin.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/mars.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/mercury.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/neptune.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/ninjasquirrel_red.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/nucleus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/pin.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/pluto.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/rebel_cruiser.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/saturn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/squirrel.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/star.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/star_destroyer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/starfield.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/sun.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/uranus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/images/venus.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/proj0/proj0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proj0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../library-sp19" beforeDir="false" afterPath="$PROJECT_DIR$/../library-sp19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/In.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/StdDraw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/StdOut.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1brJiKyf9gofGdxuGN9lG4geOE2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NBody">
+    <configuration name="NBody" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NBody" />
+      <module name="proj0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StdDrawDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StdDrawDemo" />
+      <module name="proj0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCalcDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestCalcDistance" />
+      <module name="proj0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestReadBodies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestReadBodies" />
+      <module name="proj0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Testfor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Testfor" />
+      <module name="proj0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NBody" />
+        <item itemvalue="Application.StdDrawDemo" />
+        <item itemvalue="Application.TestReadBodies" />
+        <item itemvalue="Application.Testfor" />
+        <item itemvalue="Application.TestCalcDistance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4cc68b3-e02f-4511-9406-ef5a5520712b" name="默认更改列表" comment="" />
+      <created>1589384404268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589384404268</updated>
+      <workItem from="1589384409165" duration="12175000" />
+      <workItem from="1589860466723" duration="23384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589985000765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1589985000765" />
+    <state x="381" y="0" key="CommitChangelistDialog2" timestamp="1589994438067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="381" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589994438067" />
+    <state x="549" y="111" key="FileChooserDialogImpl" timestamp="1589422616541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="111" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589422616541" />
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom" timestamp="1589993838823">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589993838823" />
+    <state width="1493" height="189" key="GridCell.Tab.0.center" timestamp="1589993838823">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589993838823" />
+    <state width="1493" height="189" key="GridCell.Tab.0.left" timestamp="1589993838823">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589993838823" />
+    <state width="1493" height="189" key="GridCell.Tab.0.right" timestamp="1589993838823">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="189" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589993838823" />
+    <state width="1493" height="282" key="GridCell.Tab.1.bottom" timestamp="1589992704279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589992704279" />
+    <state width="1493" height="282" key="GridCell.Tab.1.center" timestamp="1589992704279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589992704279" />
+    <state width="1493" height="282" key="GridCell.Tab.1.left" timestamp="1589992704279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589992704279" />
+    <state width="1493" height="282" key="GridCell.Tab.1.right" timestamp="1589992704279">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="282" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589992704279" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1589986565076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589986565076" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/TestReadBodies.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
