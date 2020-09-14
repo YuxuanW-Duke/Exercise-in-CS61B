@@ -30,7 +30,7 @@ public class InsertRandomSpeedTest {
                             waitForPositiveInt(input), L);
 
             System.out.print("\nEnter # strings to insert into your MyHashMap: ");
-            timeRandomMap61B(new MyHashMap<String, Integer>(), 
+            timeRandomMap61B(new MyHashMap<String, Integer>(),
                             waitForPositiveInt(input), L);
 
             System.out.print("\nEnter # strings to insert into Java's HashMap: ");

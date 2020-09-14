@@ -31,7 +31,7 @@ public class InsertInOrderSpeedTest {
                               i.waitForPositiveInt(input));
        
             System.out.print("\nEnter # strings to insert into MyHashMap: ");
-            timeInOrderMap61B(new MyHashMap<String, Integer>(), 
+            timeInOrderMap61B(new MyHashMap<String, Integer>(),
                               i.waitForPositiveInt(input));
     
             System.out.print("\nEnter # strings to insert into Java's HashMap: ");
